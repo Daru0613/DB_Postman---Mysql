@@ -1,6 +1,4 @@
-# **mysql과 postman을 활용한 DB 과제**
-
----
+# **제목: mysql과 postman을 활용한 DB 과제**
 
 ## **목적: mysql과 postman을 이용한 app.post() 기능으로 ID, PW 저장하기**
 
@@ -17,7 +15,9 @@
    | ![DB](image/DB%20create1.png) |
 
    - **"Create Schema..." 클릭**
-     <br>
+
+<br/>
+<br/>
 
 2. **DB 이름 작성하기**
 
