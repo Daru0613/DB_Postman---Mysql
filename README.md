@@ -17,7 +17,6 @@
    - **"Create Schema..." 클릭**
 
 <br/>
-<br/>
 
 2. **DB 이름 작성하기**
 
@@ -31,6 +30,8 @@
 
 ### **2. Table 생성**
 
+<br/>
+
 1. **Table 생성하기**
 
    | Table Create 1                   |
@@ -38,6 +39,8 @@
    | ![DB](image/Table%20create1.png) |
 
    - **"Tables"에 우클릭 후 "Create Table" 클릭**
+
+<br/>
 
 2. **Table 설정하기**
 
@@ -51,6 +54,8 @@
 
 ### **3. DB 연결**
 
+<br/>
+
 | DB Connection                    |
 | -------------------------------- |
 | ![DB](image/DB%20connection.png) |
@@ -61,11 +66,15 @@
 
 ### **4. post, get 구현**
 
+<br/>
+
 | POST                  |
 | --------------------- |
 | ![DB](image/post.png) |
 
 - **Javascript를 통해 post 기능 구현 및 postman에서 오는 요청 처리**
+
+<br/>
 
 | GET                        |
 | -------------------------- |
@@ -77,6 +86,8 @@
 
 ### **5. Postman에서 Post 요청하기**
 
+<br/>
+
 | Postman POST 1            |
 | ------------------------- |
 | ![DB](image/postman1.png) |
@@ -84,11 +95,15 @@
 - **"New" 클릭**
 - **"HTTP" 클릭**
 
+<br/>
+
 | Postman POST 2            |
 | ------------------------- |
 | ![DB](image/postman2.png) |
 
 - **"POST" 선택**
+
+<br/>
 
 | Postman POST 3         |
 | ---------------------- |
@@ -106,6 +121,8 @@
 
 - **"Send" 클릭**
 
+<br/>
+
 | Postman POST 4         |
 | ---------------------- |
 | ![DB](image/post2.png) |
@@ -116,11 +133,15 @@
 
 ### **6. User 데이터 확인**
 
+<br/>
+
 | User 데이터 확인 1    |
 | --------------------- |
 | ![DB](image/node.png) |
 
 - **"node app.js"를 통해 서버 열기**
+
+<br/>
 
 | User 데이터 확인 2   |
 | -------------------- |
@@ -132,6 +153,8 @@
 
 ### **7. Table 데이터 삭제**
 
+<br/>
+
 | Table delete 1                  |
 | ------------------------------- |
 | ![DB](image/Table%20delete.png) |
@@ -139,11 +162,15 @@
 - **삭제할 행 선택 후 "Delete selected rows" 클릭**
 - **"Apply" 클릭**
 
+<br/>
+
 | Table delete 2                   |
 | -------------------------------- |
 | ![DB](image/Table%20delete2.png) |
 
 - **해당 창이 뜰 시 "Apply" 클릭 후 "finish" 클릭**
+
+<br/>
 
 | Table delete 3                   |
 | -------------------------------- |
@@ -155,6 +182,8 @@
 
 ## **요약 및 결과**
 
+<br/>
+
 - **요약**
 
   - mysql DB 및 Table 생성
@@ -162,6 +191,8 @@
   - Postman을 통해 post 요청
   - Table 정보 삭제 해보기
   - node app.js로 서버 열기 및 테이블 데이터 확인
+
+<br/>
 
 - **결과**
   - 정상적으로 Postman에서 입력한 post 요청이 잘 처리되고 DB Table에 저장 되는 것을 확인 할 수 있었으며 Table 데이터 삭제도 무사히 완료 할 수 있었음.
