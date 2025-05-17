@@ -24,7 +24,7 @@
    | ----------------------------- |
    | ![DB](image/DB%20create2.png) |
 
-   - **"Name"**에 "DB 이름" 입력 및 **"Apply"** 클릭
+   - **"Name"에 "DB 이름" 입력 및 "Apply" 클릭**
 
 ---
 
@@ -36,7 +36,7 @@
    | -------------------------------- |
    | ![DB](image/Table%20create1.png) |
 
-   - **"Tables"**에 우클릭 후 **"Create Table"** 클릭
+   - **"Tables"에 우클릭 후 "Create Table" 클릭**
 
 2. **Table 설정하기**
 
@@ -44,7 +44,7 @@
    | -------------------------------- |
    | ![DB](image/Table%20create2.png) |
 
-   - **"Table Name"**에 "Table 이름" 입력 후 "Column Name"과 "Datatype" 설정 후 **"Apply"** 클릭
+   - **"Table Name"에 "Table 이름" 입력 후 "Column Name"과 "Datatype" 설정 후 "Apply" 클릭**
 
 ---
 
