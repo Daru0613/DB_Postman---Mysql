@@ -17,6 +17,8 @@
    | ![DB](image/DB%20create1.png) |
 
    - **"Create Schema..." 클릭**
+     &nbsp;
+     &nbsp;
 
 2. **DB 이름 작성하기**
 
